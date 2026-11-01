@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lumen Drift",
+      "hasCanvas": false,
+      "bodyTextLen": 244,
+      "bodyTextHash": "64e58b9f31b7d71e0d519d7b1492d02e18e8e84047c289de473ac2fb5356fddf",
+      "bodyTextPrefix": "DEMO · 3D Lumen Drift Sweep the amber motes in seventy-five seco",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lumen Drift",
+      "hasCanvas": false,
+      "bodyTextLen": 244,
+      "bodyTextHash": "64e58b9f31b7d71e0d519d7b1492d02e18e8e84047c289de473ac2fb5356fddf",
+      "bodyTextPrefix": "DEMO · 3D Lumen Drift Sweep the amber motes in seventy-five seco",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
